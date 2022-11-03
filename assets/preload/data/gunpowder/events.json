@@ -1,0 +1,89 @@
+{
+	"song": {
+		"speed": 3.5,
+		"stage": "hankBG",
+		"player1": "bfag",
+		"player2": "IncidentAntipathyHank",
+		"player3": null,
+		"events": [
+			[
+				42197.8021978022,
+				[
+					[
+						"Alt Idle Animation",
+						"2",
+						"-alt"
+					]
+				]
+			],
+			[
+				63296.7032967033,
+				[
+					[
+						"Alt Idle Animation",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				73846.1538461538,
+				[
+					[
+						"Alt Idle Animation",
+						"2",
+						"-alt"
+					]
+				]
+			],
+			[
+				94945.054945055,
+				[
+					[
+						"Alt Idle Animation",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				137142.857142857,
+				[
+					[
+						"Alt Idle Animation",
+						"2",
+						"-alt"
+					]
+				]
+			],
+			[
+				150000,
+				[
+					[
+						"Screen Shake",
+						"0.618, 0.02.5",
+						"0.618, 0.02.5"
+					]
+				]
+			],
+			[
+				158241.758241758,
+				[
+					[
+						"Alt Idle Animation",
+						"2",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "madcom gf",
+		"bpm": 182,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "gunpowder"
+	}
+}
